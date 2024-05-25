@@ -110,7 +110,7 @@ section {
 
 .two {
     display: inline-block;
-    color: var(--second-color);
+    color: #151414;
     font-size: 20px;
     font-weight: 500;
 }
