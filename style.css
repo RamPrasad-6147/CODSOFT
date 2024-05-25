@@ -133,7 +133,7 @@ section {
 }
 
 .home-text p {
-    color: var(--text-color);
+    color: #151414;
     font-size: var(--p-font);
     line-height: 1.8;
     margin-bottom: 40px;
